@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node index.js",
-    "sync": "aws s3 sync . s3://assets-v2.c2x.world --exclude '.vscode/*' --exclude 'node_modules/*' --exclude '.eslintignore' --exclude '.eslintrc' --exclude '.gitignore' --exclude '.prettierignore' --exclude '.prettierrc' --exclude 'package*' --exclude '.DS_Store' --exclude '*/.DS_Store' --exclude '*.js'",
+    "sync": "aws s3 sync . s3://assets-v2.c2x.world --exclude '.git/*' --exclude '.vscode/*' --exclude 'node_modules/*' --exclude '.eslintignore' --exclude '.eslintrc' --exclude '.gitignore' --exclude '.prettierignore' --exclude '.prettierrc' --exclude 'package*' --exclude '.DS_Store' --exclude '*/.DS_Store' --exclude '*.js'",
     "update": "npm run build && npm run sync"
   },
   "devDependencies": {
