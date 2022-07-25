@@ -1,14 +1,14 @@
 module.exports = {
   mainnet: {
     name: 'mainnet',
-    chainID: 'noname-2',
-    lcd: 'http://54.180.131.253:1317',
+    chainID: 'noname_1-3',
+    lcd: 'http://43.200.67.106:1317',
     walletconnectID: 1,
   },
   testnet: {
     name: 'testnet',
-    chainID: 'noname-2',
-    lcd: 'http://54.180.131.253:1317',
+    chainID: 'noname_1-3',
+    lcd: 'http://43.200.67.106:1317',
     walletconnectID: 0,
   },
   localterra: {
