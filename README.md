@@ -13,6 +13,9 @@ assets
 │   │   contracts.js # NFT collections.
 │   │   marketplace.js # Open NFT marketplaces.
 │
+└───ibc
+│   │   tokens.js # ibc tokens.
+│
 └───icon
 │   │   extension # for extension.
 │   │   game # for game.
