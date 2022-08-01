@@ -1,19 +1,19 @@
 module.exports = {
   mainnet: {
     name: 'mainnet',
-    chainID: 'noname_1-3',
-    lcd: 'http://43.200.67.106:1317',
+    chainID: 'cube-1',
+    lcd: 'http://3.39.94.98:1317',
     walletconnectID: 1,
   },
   testnet: {
     name: 'testnet',
-    chainID: 'noname_1-3',
-    lcd: 'http://43.200.67.106:1317',
+    chainID: 'cube-1',
+    lcd: 'http://3.39.94.98:1317',
     walletconnectID: 0,
   },
-  localterra: {
-    name: 'localterra',
-    chainID: 'localterra',
+  localxpla: {
+    name: 'localxpla',
+    chainID: 'localxpla',
     lcd: 'http://localhost:1317',
     mantle: 'http://localhost:1337',
   },

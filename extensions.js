@@ -1,8 +1,8 @@
 module.exports = {
   whitelist: [
     {
-      name: 'C2X Station',
-      identifier: 'c2xstation',
+      name: 'Xpla Wallet',
+      identifier: 'xplawallet',
       icon: 'http://assets-v2.c2x.world/icon/extension/icon.png',
       urls: [
         {
