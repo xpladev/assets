@@ -1,23 +1,13 @@
 module.exports = {
-  mainnet: {
-    noname1q6kpxy6ar5lkxqudjvryarrrttmakwsv32ahx8smkksp6dqq87mswkydwy: {
-      contract:
-        'noname1q6kpxy6ar5lkxqudjvryarrrttmakwsv32ahx8smkksp6dqq87mswkydwy',
-      name: 'Chromatic Souls : AFK Raid',
-      symbol: 'CSTchromatic',
-      icon: 'http://assets-v2.c2x.world/icon/CSTchromatic.png',
-      homepage: '',
-      marketplace: [],
-    },
-  },
+  mainnet: {},
   testnet: {
-    noname1q6kpxy6ar5lkxqudjvryarrrttmakwsv32ahx8smkksp6dqq87mswkydwy: {
+    xpla1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3s5c7wrn: {
       contract:
-        'noname1q6kpxy6ar5lkxqudjvryarrrttmakwsv32ahx8smkksp6dqq87mswkydwy',
+        'xpla1xr3rq8yvd7qplsw5yx90ftsr2zdhg4e9z60h5duusgxpv72hud3s5c7wrn',
       name: 'Chromatic Souls : AFK Raid',
       symbol: 'CSTchromatic',
-      icon: 'http://assets-v2.c2x.world/icon/CSTchromatic.png',
-      homepage: '',
+      icon: 'https://assets.xpla.io/icon/CSTchromatic.png',
+      homepage: 'https://chromaticsouls.c2x.world',
       marketplace: [],
     },
   },
