@@ -1,14 +1,16 @@
 module.exports = {
   mainnet: {
     name: 'mainnet',
-    chainID: 'cube-1',
-    lcd: 'http://3.39.94.98:1317',
+    chainID: 'dimension_37-1',
+    lcd: 'https://dimension-lcd.xpla.dev',
+    api: 'https://dimension-api.xpla.io',
     walletconnectID: 1,
   },
   testnet: {
     name: 'testnet',
-    chainID: 'cube-1',
-    lcd: 'http://3.39.94.98:1317',
+    chainID: 'cube_47-4',
+    lcd: 'https://cube-lcd.xpla.dev',
+    api: 'https://cube-api.xpla.io',
     walletconnectID: 0,
   },
   localxpla: {

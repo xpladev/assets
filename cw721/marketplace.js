@@ -1,6 +1,6 @@
 module.exports = [
   {
-    name: 'Example',
-    link: 'https://exmaple.io',
+    name: 'C2X Dex Marketplace',
+    link: ' https://dex.c2xnft.com',
   },
 ];
