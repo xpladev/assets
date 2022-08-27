@@ -21,18 +21,18 @@ assets
 │   │   game # for game.
 │   │   svg # default icons.
 │
-└───station
+└───vault
 │   │    maintenance.js
 │
-└───chains.js # Xpla chains.
+└───chains.js # XPLA Vault chains.
 │
-└───contracts.js # Xpla contracts.
+└───contracts.js # XPLA Vault contracts.
 │
-└───extensions.js # Xpla station wallet extension list.
+└───extensions.js # XPLA Vault Wallet extension list.
 ```
 
 ## Example
 ```
-http://assets-v2.c2x.world/chains.json
-http://assets-v2.c2x.world/icon/CTX.png
+http://assets.xpla.io/chains.json
+http://assets.xpla.io/icon/svg/XPLA.svg
 ```
