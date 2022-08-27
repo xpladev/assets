@@ -9,5 +9,8 @@ station/*.json
 chains.json
 contracts.json
 extensions.json
+openmenu.js
+openmenu.json
+download-ios.html
 
 yarn.lock
