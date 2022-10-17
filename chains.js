@@ -8,7 +8,7 @@ module.exports = {
   },
   testnet: {
     name: 'testnet',
-    chainID: 'cube_47-4',
+    chainID: 'cube_47-5',
     lcd: 'https://cube-lcd.xpla.dev',
     api: 'https://cube-api.xpla.io',
     walletconnectID: 0,
