@@ -5,12 +5,15 @@ cw20/*.json
 cw721/*.json
 ibc/*.json
 station/*.json
+menu/
 
 chains.json
 contracts.json
 extensions.json
 openmenu.js
 openmenu.json
+c2xopenmenu.js
+c2xopenmenu.json
 download-ios.html
 
 yarn.lock
