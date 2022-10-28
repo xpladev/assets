@@ -15,5 +15,16 @@ module.exports = {
         },
       ],
     },
+    {
+      name: 'C2X Vault Wallet',
+      identifier: 'c2xvault',
+      icon: 'https://assets.xpla.io/icon/extension/icon-c2xvault.png',
+      urls: [
+        {
+          browser: 'chrome',
+          url: 'https://chrome.google.com/webstore/detail/c2x-vault-wallet/kolfcecahpbgbilkdkalabnfjjklkkae',
+        },
+      ],
+    },
   ],
 };
