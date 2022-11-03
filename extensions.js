@@ -1,7 +1,7 @@
 module.exports = {
   whitelist: [
     {
-      name: 'Xpla Vault Wallet',
+      name: 'XPLA Vault Wallet',
       identifier: 'xplavault',
       icon: 'https://assets.xpla.io/icon/extension/icon.png',
       urls: [
