@@ -28,7 +28,7 @@ module.exports = {
     xpla14vjqp6cq9mr90wzmqxsa5erx70h4xy5eep0jynjqmlstupngtghqmjya9p: {
       protocol: 'XPLA',
       symbol: 'ELX',
-      name: 'ELX Token',
+      name: 'ELX',
       token: 'xpla14vjqp6cq9mr90wzmqxsa5erx70h4xy5eep0jynjqmlstupngtghqmjya9p',
       icon: 'https://assets.xpla.io/icon/ELX.png',
       decimals: 6,
