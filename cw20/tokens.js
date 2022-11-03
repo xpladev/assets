@@ -7,13 +7,13 @@ module.exports = {
       token: 'xpla1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqc0z2h4',
       icon: 'https://assets.xpla.io/icon/ELX.png',
       decimals: 6,
-    }
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
       protocol: 'XPLA',
       symbol: 'CXT',
-      name: 'CXT Token',
+      name: 'CXT',
       token: 'xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h',
       icon: 'https://assets.xpla.io/icon/CXT.png',
       decimals: 6,
@@ -21,7 +21,7 @@ module.exports = {
     xpla1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstlc987: {
       protocol: 'XPLA',
       symbol: 'LCT',
-      name: 'LCT Token',
+      name: 'LCT',
       token: 'xpla1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstlc987',
       icon: 'https://assets.xpla.io/icon/LCT.png',
       decimals: 6,
@@ -29,7 +29,7 @@ module.exports = {
     xpla1yyca08xqdgvjz0psg56z67ejh9xms6l436u8y58m82npdqqhmmtqxmvq9y: {
       protocol: 'XPLA',
       symbol: 'CST',
-      name: 'CST Token',
+      name: 'CST',
       token: 'xpla1yyca08xqdgvjz0psg56z67ejh9xms6l436u8y58m82npdqqhmmtqxmvq9y',
       icon: 'https://assets.xpla.io/icon/CST.png',
       decimals: 6,
@@ -45,7 +45,7 @@ module.exports = {
     xpla1vwssedkugxs80rf9q2r79g7z6pp083fcqwkvja4h329aamkunhcq4amn84: {
       protocol: 'XPLA',
       symbol: 'MCTX',
-      name: 'MCTX Token',
+      name: 'MCTX',
       token: 'xpla1vwssedkugxs80rf9q2r79g7z6pp083fcqwkvja4h329aamkunhcq4amn84',
       icon: '',
       decimals: 18,
@@ -53,7 +53,7 @@ module.exports = {
     xpla1w6hv0suf8dmpq8kxd8a6yy9fnmntlh7hh9kl37qmax7kyzfd047qnnp0mm: {
       protocol: 'XPLA',
       symbol: 'MONE',
-      name: 'MONE Token',
+      name: 'MONE',
       token: 'xpla1w6hv0suf8dmpq8kxd8a6yy9fnmntlh7hh9kl37qmax7kyzfd047qnnp0mm',
       icon: '',
       decimals: 18,
@@ -61,7 +61,7 @@ module.exports = {
     xpla1v2ezcmgzmvwdtp9m0nyfy38p85dnkn0excnyy6dqylm65fhft0qsrzmktv: {
       protocol: 'XPLA',
       symbol: 'MTWO',
-      name: 'MTWO Token',
+      name: 'MTWO',
       token: 'xpla1v2ezcmgzmvwdtp9m0nyfy38p85dnkn0excnyy6dqylm65fhft0qsrzmktv',
       icon: '',
       decimals: 18,
