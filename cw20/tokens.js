@@ -1,5 +1,14 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    xpla1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqc0z2h4: {
+      protocol: 'XPLA',
+      symbol: 'ELX',
+      name: 'ELX',
+      token: 'xpla1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqc0z2h4',
+      icon: 'https://assets.xpla.io/icon/ELX.png',
+      decimals: 6,
+    }
+  },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
       protocol: 'XPLA',
