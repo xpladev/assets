@@ -66,5 +66,13 @@ module.exports = {
       icon: '',
       decimals: 18,
     },
+    xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50: {
+      protocol: 'XPLA',
+      symbol: 'CTXT',
+      name: 'CTXT',
+      token: 'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+      icon: 'https://assets.xpla.io/icon/CTXT.png',
+      decimals: 6,
+    },
   },
 };
