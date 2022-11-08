@@ -1,5 +1,22 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    xpla1sdzaas0068n42xk8ndm6959gpu6n09tajmeuq7vak8t9qt5jrp6szltsnk: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'axpla',
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+      ],
+    },
+    xpla1c8yt309fq0shhfpvpf9yrz75nz95wkwcqs0us06d739vdcc4f6fsftqhkg: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+        'xpla1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqc0z2h4',
+      ],
+    },
+  },
   testnet: {
     xpla1ujxvgkf94dl4zjau0zmvp3uugg8efzq4qakz5q502etzw4q8f06s0nymuc: {
       dex: 'dezswap',
