@@ -8,6 +8,14 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/ELX.png',
       decimals: 6,
     },
+    xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5: {
+      protocol: 'XPLA',
+      symbol: 'CTXT',
+      name: 'CTX Token',
+      token: 'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+      icon: 'https://assets.xpla.io/icon/CTXT.png',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
