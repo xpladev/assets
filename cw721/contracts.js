@@ -1,5 +1,14 @@
 module.exports = {
   mainnet: {
+    xpla14v73z8ltt9sekglxrjfsk9fjzc95ag0cspk3aphqsax8l6c6kcaqz46yds: {
+      contract:
+        'xpla14v73z8ltt9sekglxrjfsk9fjzc95ag0cspk3aphqsax8l6c6kcaqz46yds',
+      name: 'Dear Ella Fan Card',
+      symbol: 'ELXfancard',
+      icon: 'https://assets.xpla.io/icon/ELXfancard.png',
+      homepage: 'https://dear-ella.c2x.world',
+      marketplace: [],
+    },
     xpla1tv0h6cjmyly98fqs0w5xumm0a8csfmf8lsztu0tewhlh5d7ykuhs9v30qg: {
       contract:
         'xpla1tv0h6cjmyly98fqs0w5xumm0a8csfmf8lsztu0tewhlh5d7ykuhs9v30qg',
