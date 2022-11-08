@@ -1,5 +1,15 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    xpla1tv0h6cjmyly98fqs0w5xumm0a8csfmf8lsztu0tewhlh5d7ykuhs9v30qg: {
+      contract:
+        'xpla1tv0h6cjmyly98fqs0w5xumm0a8csfmf8lsztu0tewhlh5d7ykuhs9v30qg',
+      name: 'Dear Ella NFT',
+      symbol: 'ELNFT',
+      icon: 'https://assets.xpla.io/icon/ELXella.png',
+      homepage: 'https://dear-ella.c2x.world',
+      marketplace: [],
+    },
+  },
   testnet: {
     xpla1tufuqv8ndkp3c7tpllegln8ttu0l2q3myl3lz8hsn88maqyssmks7gquve: {
       contract:
