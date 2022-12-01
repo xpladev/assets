@@ -20,9 +20,9 @@ module.exports = {
     },
   },
   testnet: {
-    xpla1tufuqv8ndkp3c7tpllegln8ttu0l2q3myl3lz8hsn88maqyssmks7gquve: {
+    xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
       contract:
-        'xpla1tufuqv8ndkp3c7tpllegln8ttu0l2q3myl3lz8hsn88maqyssmks7gquve',
+        'xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99',
       name: 'Chromatic Souls : AFK Raid',
       symbol: 'CSTchromatic',
       icon: 'https://assets.xpla.io/icon/CSTchromatic.png',
