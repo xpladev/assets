@@ -18,22 +18,6 @@ module.exports = {
     },
   },
   testnet: {
-    xpla1ujxvgkf94dl4zjau0zmvp3uugg8efzq4qakz5q502etzw4q8f06s0nymuc: {
-      dex: 'dezswap',
-      type: 'xyk',
-      assets: [
-        'xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h',
-        'axpla',
-      ],
-    },
-    xpla104yd6mjyfx90swm022h9t37g2c2ar2w7zkcee5qlkrfrdge0ka9qhesxhp: {
-      dex: 'dezswap',
-      type: 'xyk',
-      assets: [
-        'xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h',
-        'xpla14vjqp6cq9mr90wzmqxsa5erx70h4xy5eep0jynjqmlstupngtghqmjya9p',
-      ],
-    },
     xpla123dl27tlhs4lyvywarnrydtdr8kca2fy2r75ck3qzpupy5dsdwvqxu5vy0: {
       dex: 'dezswap',
       type: 'xyk',
@@ -48,6 +32,46 @@ module.exports = {
       assets: [
         'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
         'xpla14vjqp6cq9mr90wzmqxsa5erx70h4xy5eep0jynjqmlstupngtghqmjya9p',
+      ],
+    },
+    xpla1f40evnh82xhuv43hx9hyuz8hhfr2cs0the4vklzxgfca0k8ty3psj05gm3: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+        'xpla1m2kff9jgu0hhx4zks3mergykhpdeajsjs42hsrxn7ep77khetezq3rapwg',
+      ],
+    },
+    xpla1p5yjmts2zhs8cvxced97vtrtnc50kxpw7ezrrmg4cgn9r0eut0aq9vpkrs: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+        'xpla1gqz4kugk3gtqttnmh3ekgmvfc6lrg84jlye2n58v7nlg9r4vzr2s6e0jta',
+      ],
+    },
+    xpla1kx7yec0gf6c638ye64yqag6gfgrjdwv36zc98ctyc8kux2njttnsr5gpee: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+        'xpla1qf8q3q0k6uka2nuwk4w0wg68zg4q8kuk06jgdk7jce08lxlvm5lql9m04d',
+      ],
+    },
+    xpla1ns6mdjc9kjhqyy8knmx4l6hyw7nc5dj8d8xn8wyty4mxndc4tlyss89eh9: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+        'xpla14w7klalyy9q4j7pvsvj8pqgceznz0xdzwxn45euehkudplqswuqq2y0sfe',
+      ],
+    },
+    xpla1nxr8jfp523mkmljk5z5vrfg28xnus2jzwczp82fpxnq74vsydeyslledx5: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+        'xpla1fge9u30s9cpy7te84kpjgjuvyrtv5gxwt2rgewqa9n5rwtvlzc0sxdnp2s',
       ],
     },
   },
