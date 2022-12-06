@@ -18,6 +18,15 @@ module.exports = {
       homepage: 'https://dear-ella.c2x.world',
       marketplace: [],
     },
+    xpla1up07dctjqud4fns75cnpejr4frmjtddzsmwgcktlyxd4zekhwecqtcfwjd: {
+      contract:
+        'xpla1up07dctjqud4fns75cnpejr4frmjtddzsmwgcktlyxd4zekhwecqtcfwjd',
+      name: 'BOPANG',
+      symbol: 'BOPANG_1',
+      icon: 'https://hive-fn.qpyou.cn/webdev/minisite/real/BungOPang/ms_game/wIGn4djcAO.ico',
+      homepage: 'https://bop.com2us.com',
+      marketplace: 'https://www.c2xnft.com',
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
