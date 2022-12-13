@@ -27,6 +27,15 @@ module.exports = {
       homepage: 'https://bop.com2us.com',
       marketplace: 'https://www.c2xnft.com',
     },
+    xpla1ae3s5jpjy0hu5xedhauxmhkap8mqj45m2zegf3pwcdzf7dt2f2wq33vmxm: {
+      contract:
+        'xpla1ae3s5jpjy0hu5xedhauxmhkap8mqj45m2zegf3pwcdzf7dt2f2wq33vmxm',
+      name: 'Chromatic Souls NFT',
+      symbol: 'CSNFT',
+      icon: 'https://assets.xpla.io/icon/CSTchromatic.png',
+      homepage: 'https://chromaticsouls.c2x.world',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
