@@ -16,6 +16,46 @@ module.exports = {
         'xpla1hz3svgdhmv67lsqlduu0tcnd3f75c0xr0mu48l6ywuwlz43zssjqc0z2h4',
       ],
     },
+    xpla18570mzun47xwcddt3f7ryrr6ujn0r0vdavl9zgzlfwkp5xw9357sd7e5qw: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+        'xpla1ddstvl38skwpm284gfaqukn3e8c4mlf26mssy5hppeq6ar2nnw0sr8vh6m',
+      ],
+    },
+    xpla1uz7hfc5tthhg3s8rr2axj9c4w405zdnl9ywjwde0m4qhcse8sy3sakpzal: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+        'xpla1hdnu502uecmddk9w48kxvekgp43mjdpr3mza9kj2tfvjpgef5grszl8rur',
+      ],
+    },
+    xpla1k06u29n7qxxc9nxre6sj0ze57ply78rfuj7pv7vxe5xm8pwkfhrq9q76wk: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+        'xpla1qnynuzvl2a5nzxtrhjhw20h0mf7u6tarcuqveqd0qzp7322n5rqsl2jdcu',
+      ],
+    },
+    xpla1j2t9s7xgmudw74pcdtrqj9t2pyg80dasts2ey3edl9u3vdqqwp8qlug95s: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+        'xpla19377ce3k2893s98xp58vg0jtgtvj5qv405y36l4wf4z2xhnjwh6sd8pvxr',
+      ],
+    },
+    xpla1mqneytdhcuznwsuj4hd97nfs6s6vl5ar556nrt6jgjpfrqnzfx4q33ryuh: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
+        'xpla1r8td9cjggx9f5ek2gzfh34kguxuz5j9rfjemamvjw2he2y84t3xqf3lte4',
+      ],
+    },
   },
   testnet: {
     xpla123dl27tlhs4lyvywarnrydtdr8kca2fy2r75ck3qzpupy5dsdwvqxu5vy0: {
