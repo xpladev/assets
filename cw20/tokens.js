@@ -186,5 +186,21 @@ module.exports = {
       icon: '',
       decimals: 18,
     },
+    xpla1ugmjq8tqcvdg7324ekpfqx8g4kxf9zmjajp0xnu27krzr5u3m0pssaevt3: {
+      protocol: 'Dezswap',
+      symbol: 'BND',
+      name: 'Bendi',
+      token: 'xpla1ugmjq8tqcvdg7324ekpfqx8g4kxf9zmjajp0xnu27krzr5u3m0pssaevt3',
+      icon: 'https://test-iam-dev.s3.ap-northeast-2.amazonaws.com/bendi-token.svg',
+      decimals: 6,
+    },
+    xpla1euu3dt8kftus5alxqs7wn7rkw7prrshvackh7haugwk3ac7u8u3q8e4t56: {
+      protocol: 'Dezswap',
+      symbol: 'DDI',
+      name: 'Dedi',
+      token: 'xpla1euu3dt8kftus5alxqs7wn7rkw7prrshvackh7haugwk3ac7u8u3q8e4t56',
+      icon: 'https://test-iam-dev.s3.ap-northeast-2.amazonaws.com/dedi-token.svg',
+      decimals: 6,
+    },
   },
 };
