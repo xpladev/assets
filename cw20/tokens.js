@@ -96,6 +96,14 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/ILTfancard.png',
       decimals: 0,
     },
+    xpla1he85n9h0mcnzhpegj76wwcyjv626tced0zkp58wakjc7d3fm50xq8sywg6: {
+      protocol: 'XPLA',
+      symbol: 'AFC',
+      name: 'AFC',
+      token: 'xpla1he85n9h0mcnzhpegj76wwcyjv626tced0zkp58wakjc7d3fm50xq8sywg6',
+      icon: 'https://assets.xpla.io/icon/AFC.png',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
