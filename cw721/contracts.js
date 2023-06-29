@@ -36,6 +36,15 @@ module.exports = {
       homepage: 'https://chromaticsouls.c2x.world',
       marketplace: [],
     },
+    xpla198dvhzfy6mrd2cschjta0wl43ft33lfcvdyxqhewqjj8jc8yju8qwdkjzj: {
+      contract:
+        'xpla198dvhzfy6mrd2cschjta0wl43ft33lfcvdyxqhewqjj8jc8yju8qwdkjzj',
+      name: 'AFCrew Fan Card',
+      symbol: 'AFCfancard',
+      icon: 'https://assets.xpla.io/icon/AFCfancard.png',
+      homepage: 'https://acefishingcrew.com2us.com',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
