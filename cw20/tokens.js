@@ -210,5 +210,13 @@ module.exports = {
       icon: 'https://test-iam-dev.s3.ap-northeast-2.amazonaws.com/dedi-token.svg',
       decimals: 6,
     },
+    xpla1zhw5n9nks0yktnna66gmesgxm73hm7273ecsprqzjzpfsfedfzgsu88yn7: {
+      protocol: 'XPLA',
+      symbol: 'AFC',
+      name: 'AFC',
+      token: 'xpla1zhw5n9nks0yktnna66gmesgxm73hm7273ecsprqzjzpfsfedfzgsu88yn7',
+      icon: 'https://assets.xpla.io/icon/AFC.png',
+      decimals: 6,
+    },
   },
 };
