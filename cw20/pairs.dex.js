@@ -122,5 +122,13 @@ module.exports = {
         'xpla1fge9u30s9cpy7te84kpjgjuvyrtv5gxwt2rgewqa9n5rwtvlzc0sxdnp2s',
       ],
     },
+    xpla1fps669egamntqteqgmgqacrwwhuzr4xl8caxm0an7nsnsfwkrzgs5jwgad: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
+        'xpla1zhw5n9nks0yktnna66gmesgxm73hm7273ecsprqzjzpfsfedfzgsu88yn7',
+      ],
+    },
   },
 };
