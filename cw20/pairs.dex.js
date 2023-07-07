@@ -56,14 +56,6 @@ module.exports = {
         'xpla1r8td9cjggx9f5ek2gzfh34kguxuz5j9rfjemamvjw2he2y84t3xqf3lte4',
       ],
     },
-    xpla10x8w4n9cvg4f63fjrm0yc6c54a4p3csuk0uv0hskz8g3aljufl6qlrs6gp: {
-      dex: 'dezswap',
-      type: 'xyk',
-      assets: [
-        'xpla1r57m20afwdhkwy67520p8vzdchzecesmlmc8k8w2z7t3h9aevjvs35x4r5',
-        'xpla1he85n9h0mcnzhpegj76wwcyjv626tced0zkp58wakjc7d3fm50xq8sywg6',
-      ],
-    },
   },
   testnet: {
     xpla123dl27tlhs4lyvywarnrydtdr8kca2fy2r75ck3qzpupy5dsdwvqxu5vy0: {
