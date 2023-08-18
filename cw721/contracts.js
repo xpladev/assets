@@ -65,5 +65,14 @@ module.exports = {
       homepage: 'https://dear-ella.c2x.world',
       marketplace: [],
     },
+    xpla10kwj87uqm3qwpdv2h8tq8dl9ke43ljmp3lz9ga2veldv6g5rxwusxy6cxx: {
+      contract:
+        'xpla10kwj87uqm3qwpdv2h8tq8dl9ke43ljmp3lz9ga2veldv6g5rxwusxy6cxx',
+      name: 'Space Mission Patches',
+      symbol: 'MISSION_PATCHES_NFT',
+      icon: 'https://assets.xpla.io/icon/MISSION_PATCHES_NFT.png',
+      homepage: 'https://evtlabs.io',
+      marketplace: [],
+    },
   },
 };

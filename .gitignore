@@ -3,12 +3,15 @@ node_modules/
 # Don't include json files that get built on deploy.
 cw20/*.json
 cw721/*.json
+erc20/*.json
+erc721/*.json
 ibc/*.json
 station/*.json
 menu/
 
 chains.json
 codepush.json
+codepush-v2.json
 contracts.json
 extensions.json
 openmenu.js
