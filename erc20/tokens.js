@@ -17,5 +17,13 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/evm/xNINKY.png',
       decimals: 6,
     },
+    '0xEC81bE05cA47200AceC996C51688889075d288E2': {
+      protocol: 'XPLA',
+      symbol: 'xNINKY',
+      name: 'xpla decimal 18 ninky',
+      token: '0xEC81bE05cA47200AceC996C51688889075d288E2',
+      icon: 'https://s2.coinmarketcap.com/static/img/coins/64x64/17920.png',
+      decimals: 18,
+    },
   },
 };
