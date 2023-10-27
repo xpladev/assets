@@ -1,5 +1,14 @@
 module.exports = {
-  mainnet: {},
+  mainnet: {
+    '0x26D086423f64d339481f379F8988004B4fcaB093': {
+      protocol: 'XPLA',
+      symbol: 'xNINKY',
+      name: 'Idle Ninja Online Token',
+      token: '0x26D086423f64d339481f379F8988004B4fcaB093',
+      icon: 'https://assets.xpla.io/icon/evm/xNINKY.png',
+      decimals: 6,
+    },
+  },
   testnet: {
     '0x217c395CDC38D55d1F83528df05b9412cde5b800': {
       protocol: 'XPLA',
