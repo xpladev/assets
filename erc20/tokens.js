@@ -6,7 +6,7 @@ module.exports = {
       name: 'Idle Ninja Online Token',
       token: '0x26D086423f64d339481f379F8988004B4fcaB093',
       icon: 'https://assets.xpla.io/icon/evm/xNINKY.png',
-      decimals: 6,
+      decimals: 18,
     },
     '0x14f5f510B42D371352c605c0c1B972409b82c0F6': {
       protocol: 'XPLA',
@@ -14,7 +14,7 @@ module.exports = {
       name: 'Token USDC',
       token: '0x14f5f510B42D371352c605c0c1B972409b82c0F6',
       icon: 'https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png',
-      decimals: 6,
+      decimals: 18,
     },
   },
   testnet: {
