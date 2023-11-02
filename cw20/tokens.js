@@ -104,6 +104,14 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/AFC.png',
       decimals: 6,
     },
+    xpla1u8rwa88r03ss5z66s7hc63z0enzvl2c0pr6js7e3k6kvqkyu3exsuxqppx: {
+      protocol: 'XPLA',
+      symbol: 'WKG',
+      name: 'WalkMining Governance',
+      token: 'xpla1u8rwa88r03ss5z66s7hc63z0enzvl2c0pr6js7e3k6kvqkyu3exsuxqppx',
+      icon: 'https://raw.githubusercontent.com/walkmining/assets/main/symbol/symbol_wkg.png',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
