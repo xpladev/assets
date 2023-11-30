@@ -45,6 +45,15 @@ module.exports = {
       homepage: 'https://acefishingcrew.com2us.com',
       marketplace: [],
     },
+    xpla1ppfu23xc5t5gsgl2fx3upe8xz89tnjt6excyar0676p50k0rfgjqsj4anv: {
+      contract:
+        'xpla1ppfu23xc5t5gsgl2fx3upe8xz89tnjt6excyar0676p50k0rfgjqsj4anv',
+      name: 'Space Mission Patches',
+      symbol: 'MISSION_PATCHES_NFT',
+      icon: 'https://assets.xpla.io/icon/MISSION_PATCHES_NFT.png',
+      homepage: 'https://evtlabs.io',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
