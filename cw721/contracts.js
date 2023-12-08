@@ -88,7 +88,7 @@ module.exports = {
         'xpla1c94ss2232fm5v7cs36g5n56fd9vldflmg2l4g77qj3r86fdmqststr5eya',
       name: 'BREAK THE BRICKS PADDLE',
       symbol: 'BTB PADDLE',
-      icon: 'https://drive.google.com/open?id=168OaPM7Pme4oaoPNQ_ZistMhzKWGwYz9&usp=drive_copy',
+      icon: 'https://assets.xpla.io/icon/BTB-PADDLE.png',
       homepage: 'https://academy.xpla.dev',
       marketplace: [],
     },
