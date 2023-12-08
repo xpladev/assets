@@ -92,5 +92,23 @@ module.exports = {
       homepage: 'https://academy.xpla.dev',
       marketplace: [],
     },
+    xpla18u2h3tg46nrtujtv358zdss8plsp2f4l7ju0ldgvajsct45z4r8q2gqd2m: {
+      contract:
+        'xpla18u2h3tg46nrtujtv358zdss8plsp2f4l7ju0ldgvajsct45z4r8q2gqd2m',
+      name: 'LouisToken',
+      symbol: 'kLouis',
+      icon: 'https://i.seadn.io/gcs/files/1ae96d3c0e2b93674e651712cb9b51b5.png?auto=format&dpr=1&w=1000',
+      homepage: 'https://havah.io/',
+      marketplace: [],
+    },
+    xpla108pjpz7kf56646k2x3gr5qz544jphave7ftzyuww962u4cswwf8syeqegy: {
+      contract:
+        'xpla108pjpz7kf56646k2x3gr5qz544jphave7ftzyuww962u4cswwf8syeqegy',
+      name: 'LouisToken1155',
+      symbol: 'kLouis1155',
+      icon: 'https://i.seadn.io/gcs/files/1ae96d3c0e2b93674e651712cb9b51b5.png?auto=format&dpr=1&w=1000',
+      homepage: 'https://havah.io/',
+      marketplace: [],
+    },
   },
 };
