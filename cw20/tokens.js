@@ -226,5 +226,13 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/AFC.png',
       decimals: 6,
     },
+    xpla1shxdwyus9u6tgvu6kl5tdgem4d4at9vhanq0hxyqnm4ly3wd8awqkwlcj3: {
+      protocol: 'XPLA',
+      symbol: 'ACADEMY-TKN',
+      name: 'XPLA ACADEMY TOKEN',
+      token: 'xpla1shxdwyus9u6tgvu6kl5tdgem4d4at9vhanq0hxyqnm4ly3wd8awqkwlcj3',
+      icon: 'https://drive.google.com/open?id=1pk0CjKJIFcgVUTNrUhfCwnDRcxTBZLEd&usp=drive_copy',
+      decimals: 6,
+    },
   },
 };
