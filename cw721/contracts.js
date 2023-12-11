@@ -92,9 +92,9 @@ module.exports = {
       homepage: 'https://academy.xpla.dev',
       marketplace: [],
     },
-    xpla18u2h3tg46nrtujtv358zdss8plsp2f4l7ju0ldgvajsct45z4r8q2gqd2m: {
+    xpla1hfh98u64rt0em9yw3093sy8rjm8uxsxm4n90lht4tt085n6y5mtsfc6zd3: {
       contract:
-        'xpla18u2h3tg46nrtujtv358zdss8plsp2f4l7ju0ldgvajsct45z4r8q2gqd2m',
+        'xpla1hfh98u64rt0em9yw3093sy8rjm8uxsxm4n90lht4tt085n6y5mtsfc6zd3',
       name: 'LouisToken',
       symbol: 'kLouis',
       icon: 'https://i.seadn.io/gcs/files/1ae96d3c0e2b93674e651712cb9b51b5.png?auto=format&dpr=1&w=1000',
