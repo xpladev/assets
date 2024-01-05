@@ -25,7 +25,7 @@ module.exports = {
       symbol: 'BOPANG_1',
       icon: 'https://hive-fn.qpyou.cn/webdev/minisite/real/BungOPang/ms_game/wIGn4djcAO.ico',
       homepage: 'https://bop.com2us.com',
-      marketplace: 'https://www.c2xnft.com',
+      marketplace: 'https://www.xpla.net',
     },
     xpla1ae3s5jpjy0hu5xedhauxmhkap8mqj45m2zegf3pwcdzf7dt2f2wq33vmxm: {
       contract:
@@ -109,6 +109,15 @@ module.exports = {
       icon: 'https://i.seadn.io/gcs/files/1ae96d3c0e2b93674e651712cb9b51b5.png?auto=format&dpr=1&w=1000',
       homepage: 'https://havah.io/',
       marketplace: [],
+    },
+    xpla1mjpztpjzre4ex60l9d9wzqrr58m9nsjajatfe2ltx8vt3rc9xqjs3rrpf7: {
+      contract:
+          'xpla1mjpztpjzre4ex60l9d9wzqrr58m9nsjajatfe2ltx8vt3rc9xqjs3rrpf7',
+      name: 'Flashman',
+      symbol: 'FLASHMAN_1',
+      icon: 'https://assets.xpla.io/icon/XPLANET_FLASH.png',
+      homepage: 'https://flashman.com2us.com',
+      marketplace: ['https://www.xpla.net'],
     },
   },
 };
