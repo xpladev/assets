@@ -92,7 +92,7 @@ module.exports = {
       homepage: 'https://evtlabs.io',
       marketplace: [],
     },
-    xpla1c94ss2232fm5v7cs36g5n56fd9vldflmg2l4g77qj3r86fdmqststr5eya: {
+    xpla160cwjchdcv5f8m0pevkur8jf2nd255necmk28vzf4uveztwfzqys6cyr4k: {
       contract:
         'xpla160cwjchdcv5f8m0pevkur8jf2nd255necmk28vzf4uveztwfzqys6cyr4k',
       name: 'BREAK THE BRICKS PADDLE',
