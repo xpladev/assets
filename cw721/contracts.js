@@ -63,6 +63,15 @@ module.exports = {
       homepage: 'https://flashman.com2us.com',
       marketplace: ['https://www.xpla.net'],
     },
+    xpla1qezku99qamkyc660lk8t4txt9gjstur7s9gal9c92ejn25lluuas5hxwcu: {
+      contract:
+          'xpla1qezku99qamkyc660lk8t4txt9gjstur7s9gal9c92ejn25lluuas5hxwcu',
+      name: 'HLECLIPSE',
+      symbol: 'ECLIPSE_1',
+      icon: 'https://assets.xpla.io/icon/XPLANET_HLECLIPSE.png',
+      homepage: 'https://heiroflighteclipse.com2us.com',
+      marketplace: ['https://www.xpla.net'],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
