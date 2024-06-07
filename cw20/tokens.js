@@ -112,6 +112,14 @@ module.exports = {
       icon: 'https://raw.githubusercontent.com/walkmining/assets/main/symbol/symbol_wkg.png',
       decimals: 6,
     },
+    xpla15efamttpxctuvjwwvqvyndd0twdxenjexv3mhdas90ejk23w9ucstnhtnl: {
+      protocol: 'XPLA',
+      symbol: 'JAMC',
+      name: 'JAM',
+      token: 'xpla15efamttpxctuvjwwvqvyndd0twdxenjexv3mhdas90ejk23w9ucstnhtnl',
+      icon: 'https://gateway.irys.xyz/Sc-x7jQ_DTwWPuLYeu8COEciQ96dcYB192PaWj3paxU',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
