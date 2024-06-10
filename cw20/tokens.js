@@ -120,6 +120,38 @@ module.exports = {
       icon: 'https://gateway.irys.xyz/Sc-x7jQ_DTwWPuLYeu8COEciQ96dcYB192PaWj3paxU',
       decimals: 6,
     },
+    xpla1r9x3twf2yymczynm0zs39frqxqr60nk9e22f54gq3n394mf2r2rqsuaug5: {
+      protocol: 'XPLA',
+      symbol: 'XPDIA',
+      name: 'Diamond',
+      token: 'xpla1r9x3twf2yymczynm0zs39frqxqr60nk9e22f54gq3n394mf2r2rqsuaug5',
+      icon: 'https://gateway.irys.xyz/uQxKwqE-srILH3ZydRdYPG2o055LX-6dex1RYppU5q8',
+      decimals: 6,
+    },
+    xpla1j9t7adu5gjfc7y4langvc8acnwp50rfashlnefsuhq6xfysn2upsgqjf43: {
+      protocol: 'XPLA',
+      symbol: 'XDOGE',
+      name: 'Xpla Doge',
+      token: 'xpla1j9t7adu5gjfc7y4langvc8acnwp50rfashlnefsuhq6xfysn2upsgqjf43',
+      icon: 'https://gateway.irys.xyz/T2C7ViiqFzdG1b1qabvHCd2Hz6uLeC32Ir1CxVFdxyI',
+      decimals: 6,
+    },
+    xpla15jugk3w42q4a06df4p4tfqx5jnlrk2rg0c3sqj3ch0nhwyhj28ysyn8ckk: {
+      protocol: 'XPLA',
+      symbol: 'WXP',
+      name: 'Window XP',
+      token: 'xpla15jugk3w42q4a06df4p4tfqx5jnlrk2rg0c3sqj3ch0nhwyhj28ysyn8ckk',
+      icon: 'https://gateway.irys.xyz/UL4OB4-zCC9HxNpftquORQ33jzjM-Z-4FxLOY8-XghM',
+      decimals: 6,
+    },
+    xpla17zszj94qllctx2ne80uuvv80drxa626rg2dtakvzakevql85g9jslcwxpl: {
+      protocol: 'XPLA',
+      symbol: 'JAMM',
+      name: 'Jammin',
+      token: 'xpla17zszj94qllctx2ne80uuvv80drxa626rg2dtakvzakevql85g9jslcwxpl',
+      icon: 'https://gateway.irys.xyz/FF4H18aVIokj4xbrOpoSPJvWiYq80SH9h92zEeX4X-0',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
