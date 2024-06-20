@@ -64,6 +64,14 @@ module.exports = {
         'xpla1he85n9h0mcnzhpegj76wwcyjv626tced0zkp58wakjc7d3fm50xq8sywg6',
       ],
     },
+    xpla14ed3gs5kad5dusxnxvzkx2a0jm3j6e47s3qawyk52wallgjz6e0sp4e7rn: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla15efamttpxctuvjwwvqvyndd0twdxenjexv3mhdas90ejk23w9ucstnhtnl',
+        'axpla',
+      ],
+    },
   },
   testnet: {
     xpla123dl27tlhs4lyvywarnrydtdr8kca2fy2r75ck3qzpupy5dsdwvqxu5vy0: {
@@ -128,6 +136,14 @@ module.exports = {
       assets: [
         'xpla19w8vmg7tmh07ztr3v7lq8sdny6jjkj6pk03a7fk52gpgepfxnlgq8g7r50',
         'xpla1zhw5n9nks0yktnna66gmesgxm73hm7273ecsprqzjzpfsfedfzgsu88yn7',
+      ],
+    },
+    xpla10097zqtjj6xh076ytf6zgjwq2ngh02rjthryvyfy5a5yzsytaenqetgqrw: {
+      dex: 'dezswap',
+      type: 'xyk',
+      assets: [
+        'xpla155wudmqefnjees7cfjushsq0lsl7h7znc3sg7ay5rslc8hqfcygqct7xgv',
+        'axpla',
       ],
     },
   },
