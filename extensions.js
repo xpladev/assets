@@ -26,5 +26,16 @@ module.exports = {
         },
       ],
     },
+    {
+      name: 'Vanta Wallet',
+      identifier: 'vantawallet',
+      icon: 'https://super-tools.s3.ap-northeast-1.amazonaws.com/vanta-wallet/vanta.png',
+      urls: [
+        {
+          browser: 'chrome',
+          url: 'https://chromewebstore.google.com/detail/vanta-wallet/modjfdjcodmehnpccdjngmdfajggaoeh',
+        },
+      ],
+    },
   ],
 };
