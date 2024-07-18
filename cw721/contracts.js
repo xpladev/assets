@@ -72,6 +72,15 @@ module.exports = {
       homepage: 'https://heiroflighteclipse.com2us.com',
       marketplace: ['https://www.xpla.net'],
     },
+    xpla1nfph5wxh8hy4xc3vwqajwt3vmye8awf9z95xdynhh5v2490dpmasrjd8fx: {
+      contract:
+          'xpla1nfph5wxh8hy4xc3vwqajwt3vmye8awf9z95xdynhh5v2490dpmasrjd8fx',
+      name: "Shinhan Bank",
+      symbol: "SHB_XPLA",
+      icon: 'https://assets.xpla.io/icon/SHB_XPLA.png',
+      homepage: '',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
