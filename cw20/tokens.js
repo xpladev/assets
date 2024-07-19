@@ -274,11 +274,11 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/ACADEMY-TKN.png',
       decimals: 6,
     },
-    xpla155wudmqefnjees7cfjushsq0lsl7h7znc3sg7ay5rslc8hqfcygqct7xgv: {
+    xpla1w86mpjyk52w545hcas6pahnfy0ps7m383c0nlh5h46kstrtxt2wsea5eyp: {
       protocol: 'XPLA',
       symbol: 'JAMC',
       name: 'JAM',
-      token: 'xpla155wudmqefnjees7cfjushsq0lsl7h7znc3sg7ay5rslc8hqfcygqct7xgv',
+      token: 'xpla1w86mpjyk52w545hcas6pahnfy0ps7m383c0nlh5h46kstrtxt2wsea5eyp',
       icon: 'https://gateway.irys.xyz/Sc-x7jQ_DTwWPuLYeu8COEciQ96dcYB192PaWj3paxU',
       decimals: 6,
     },
