@@ -138,11 +138,11 @@ module.exports = {
         'xpla1zhw5n9nks0yktnna66gmesgxm73hm7273ecsprqzjzpfsfedfzgsu88yn7',
       ],
     },
-    xpla10097zqtjj6xh076ytf6zgjwq2ngh02rjthryvyfy5a5yzsytaenqetgqrw: {
+    xpla1tsuqgqlws6f2q3ydkqluaxyqv0t93tpxl7j745ayaz3j0d5vsxwsrf270e: {
       dex: 'dezswap',
       type: 'xyk',
       assets: [
-        'xpla155wudmqefnjees7cfjushsq0lsl7h7znc3sg7ay5rslc8hqfcygqct7xgv',
+        'xpla1w86mpjyk52w545hcas6pahnfy0ps7m383c0nlh5h46kstrtxt2wsea5eyp',
         'axpla',
       ],
     },
