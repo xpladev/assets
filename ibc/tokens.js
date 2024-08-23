@@ -8,6 +8,7 @@ module.exports = {
       symbol: 'axlUSDC',
       name: 'Axelar USD Coin',
       icon: 'https://assets.xpla.io/icon/svg/ibc/axlUSDC.svg',
+      decimals: 6,
     },
   },
   testnet: {
@@ -19,6 +20,7 @@ module.exports = {
       symbol: 'axlUSDC',
       name: 'Axelar USD Coin',
       icon: 'https://assets.xpla.io/icon/svg/ibc/axlUSDC.svg',
+      decimals: 6,
     },
   },
 };
