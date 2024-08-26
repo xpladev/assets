@@ -81,6 +81,15 @@ module.exports = {
       homepage: '',
       marketplace: [],
     },
+    xpla1c8afftwswl8zjwvkpzvykl47fa5j7x649ys6a4swu7rsm64uaves07lusm: {
+      contract:
+        'xpla1c8afftwswl8zjwvkpzvykl47fa5j7x649ys6a4swu7rsm64uaves07lusm',
+      name: 'Hello PAL',
+      symbol: 'PAL',
+      icon: 'https://web3-storage.xpla.dev/ipfs/QmSLmaZ5w7zavvVnbY3NUBBFYoBdSawsNRDmG8JZqsjRUd',
+      homepage: 'https://www.hello-pal.io/',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
@@ -135,15 +144,6 @@ module.exports = {
       symbol: 'kLouis1155',
       icon: 'https://i.seadn.io/gcs/files/1ae96d3c0e2b93674e651712cb9b51b5.png?auto=format&dpr=1&w=1000',
       homepage: 'https://havah.io/',
-      marketplace: [],
-    },
-    xpla1c8afftwswl8zjwvkpzvykl47fa5j7x649ys6a4swu7rsm64uaves07lusm: {
-      contract:
-        'xpla1c8afftwswl8zjwvkpzvykl47fa5j7x649ys6a4swu7rsm64uaves07lusm',
-      name: 'Hello PAL',
-      symbol: 'PAL',
-      icon: 'https://web3-storage.xpla.dev/ipfs/QmSLmaZ5w7zavvVnbY3NUBBFYoBdSawsNRDmG8JZqsjRUd',
-      homepage: 'https://www.hello-pal.io/',
       marketplace: [],
     },
   },
