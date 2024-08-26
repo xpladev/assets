@@ -145,6 +145,6 @@ module.exports = {
       icon: 'https://web3-storage.xpla.dev/ipfs/QmSLmaZ5w7zavvVnbY3NUBBFYoBdSawsNRDmG8JZqsjRUd',
       homepage: 'https://www.hello-pal.io/',
       marketplace: [],
-    }
+    },
   },
 };
