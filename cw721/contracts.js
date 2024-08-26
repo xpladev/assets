@@ -137,5 +137,14 @@ module.exports = {
       homepage: 'https://havah.io/',
       marketplace: [],
     },
+    xpla1c8afftwswl8zjwvkpzvykl47fa5j7x649ys6a4swu7rsm64uaves07lusm: {
+      contract:
+        'xpla1c8afftwswl8zjwvkpzvykl47fa5j7x649ys6a4swu7rsm64uaves07lusm',
+      name: 'Hello PAL',
+      symbol: 'PAL',
+      icon: 'https://web3-storage.xpla.dev/ipfs/QmSLmaZ5w7zavvVnbY3NUBBFYoBdSawsNRDmG8JZqsjRUd',
+      homepage: 'https://www.hello-pal.io/',
+      marketplace: [],
+    }
   },
 };
