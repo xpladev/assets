@@ -152,6 +152,14 @@ module.exports = {
       icon: 'https://gateway.irys.xyz/FF4H18aVIokj4xbrOpoSPJvWiYq80SH9h92zEeX4X-0',
       decimals: 6,
     },
+    xpla1ntcqdnhzhjwn79da5cykqudxddkc4z75rfxtgs0ccs7eqfw2feyqj448pq: {
+      protocol: 'XPLA',
+      symbol: 'HVH',
+      name: 'HAVAH Token',
+      token: 'xpla1ntcqdnhzhjwn79da5cykqudxddkc4z75rfxtgs0ccs7eqfw2feyqj448pq',
+      icon: 'https://assets.xpla.io/icon/HVH.png',
+      decimals: 18,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
@@ -281,6 +289,14 @@ module.exports = {
       token: 'xpla1w86mpjyk52w545hcas6pahnfy0ps7m383c0nlh5h46kstrtxt2wsea5eyp',
       icon: 'https://gateway.irys.xyz/Sc-x7jQ_DTwWPuLYeu8COEciQ96dcYB192PaWj3paxU',
       decimals: 6,
+    },
+    xpla14uhx5fkpp2dwx7822zmcj0uyggksh6rf6pd99td7l5e62tn7m34qhtvfc8: {
+      protocol: 'XPLA',
+      symbol: 'HVH',
+      name: 'HAVAH Token',
+      token: 'xpla14uhx5fkpp2dwx7822zmcj0uyggksh6rf6pd99td7l5e62tn7m34qhtvfc8',
+      icon: 'https://assets.xpla.io/icon/HVH.png',
+      decimals: 18,
     },
   },
 };
