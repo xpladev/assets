@@ -56,7 +56,7 @@ module.exports = {
     },
     xpla1mjpztpjzre4ex60l9d9wzqrr58m9nsjajatfe2ltx8vt3rc9xqjs3rrpf7: {
       contract:
-          'xpla1mjpztpjzre4ex60l9d9wzqrr58m9nsjajatfe2ltx8vt3rc9xqjs3rrpf7',
+        'xpla1mjpztpjzre4ex60l9d9wzqrr58m9nsjajatfe2ltx8vt3rc9xqjs3rrpf7',
       name: 'Flashman',
       symbol: 'FLASHMAN_1',
       icon: 'https://assets.xpla.io/icon/XPLANET_FLASH.png',
@@ -65,7 +65,7 @@ module.exports = {
     },
     xpla1qezku99qamkyc660lk8t4txt9gjstur7s9gal9c92ejn25lluuas5hxwcu: {
       contract:
-          'xpla1qezku99qamkyc660lk8t4txt9gjstur7s9gal9c92ejn25lluuas5hxwcu',
+        'xpla1qezku99qamkyc660lk8t4txt9gjstur7s9gal9c92ejn25lluuas5hxwcu',
       name: 'HLECLIPSE',
       symbol: 'ECLIPSE_1',
       icon: 'https://assets.xpla.io/icon/XPLANET_HLECLIPSE.png',
@@ -74,9 +74,9 @@ module.exports = {
     },
     xpla1nfph5wxh8hy4xc3vwqajwt3vmye8awf9z95xdynhh5v2490dpmasrjd8fx: {
       contract:
-          'xpla1nfph5wxh8hy4xc3vwqajwt3vmye8awf9z95xdynhh5v2490dpmasrjd8fx',
-      name: "Shinhan Bank",
-      symbol: "SHB_XPLA",
+        'xpla1nfph5wxh8hy4xc3vwqajwt3vmye8awf9z95xdynhh5v2490dpmasrjd8fx',
+      name: 'Shinhan Bank',
+      symbol: 'SHB_XPLA',
       icon: 'https://assets.xpla.io/icon/SHB_XPLA.png',
       homepage: '',
       marketplace: [],
@@ -88,6 +88,15 @@ module.exports = {
       symbol: 'PAL',
       icon: 'https://web3-storage.xpla.dev/ipfs/QmSLmaZ5w7zavvVnbY3NUBBFYoBdSawsNRDmG8JZqsjRUd',
       homepage: 'https://www.hello-pal.io/',
+      marketplace: [],
+    },
+    xpla1dmzkkgpfg3hzwyqsksvrk7kdze9ynap850q3d5zp8s857n07v5lq8ys60f: {
+      contract:
+        'xpla1dmzkkgpfg3hzwyqsksvrk7kdze9ynap850q3d5zp8s857n07v5lq8ys60f',
+      name: 'Space Mission Patches',
+      symbol: 'SPACE_NFT',
+      icon: 'https://assets.xpla.io/icon/MISSION_PATCHES_NFT.png',
+      homepage: 'https://evtlabs.io',
       marketplace: [],
     },
   },
@@ -144,6 +153,15 @@ module.exports = {
       symbol: 'kLouis1155',
       icon: 'https://i.seadn.io/gcs/files/1ae96d3c0e2b93674e651712cb9b51b5.png?auto=format&dpr=1&w=1000',
       homepage: 'https://havah.io/',
+      marketplace: [],
+    },
+    xpla1x5arnn02d65capjmmphvak75zflgk5q8egypfjatk8qdwtwargus37w0sy: {
+      contract:
+        'xpla1x5arnn02d65capjmmphvak75zflgk5q8egypfjatk8qdwtwargus37w0sy',
+      name: 'Space Mission Patches',
+      symbol: 'SPACE_NFT',
+      icon: 'https://assets.xpla.io/icon/MISSION_PATCHES_NFT.png',
+      homepage: 'https://evtlabs.io',
       marketplace: [],
     },
   },
