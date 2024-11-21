@@ -173,7 +173,7 @@ module.exports = {
       homepage: 'https://evtlabs.io',
       marketplace: [],
     },
-    xpla1evqzfluk7l3mjda5q9p46w5umw2pj0gnvzvntsftt40m7jl7v2wq7uk9jc: {
+    xpla1c4hclpqjmnug9udyv9fuxs0vc5kjzuvkj7ju2060nx3lkm35rglqrkedyk: {
       contract:
         'xpla1c4hclpqjmnug9udyv9fuxs0vc5kjzuvkj7ju2060nx3lkm35rglqrkedyk',
       name: 'MY PAL ID CARD',
