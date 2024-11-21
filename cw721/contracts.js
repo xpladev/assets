@@ -164,5 +164,14 @@ module.exports = {
       homepage: 'https://evtlabs.io',
       marketplace: [],
     },
+    xpla1evqzfluk7l3mjda5q9p46w5umw2pj0gnvzvntsftt40m7jl7v2wq7uk9jc: {
+      contract:
+        'xpla1evqzfluk7l3mjda5q9p46w5umw2pj0gnvzvntsftt40m7jl7v2wq7uk9jc',
+      name: 'MY PAL ID CARD',
+      symbol: 'PALID',
+      icon: 'https://assets.xpla.io/icon/PALID.png',
+      homepage: 'https://pal.myepic.cc',
+      marketplace: [],
+    },
   },
 };
