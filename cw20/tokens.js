@@ -298,5 +298,13 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/HVH.png',
       decimals: 18,
     },
+    xpla1htjsuke8zy2rzrnsgc72tvxalqkqanklyml7s7yspecndr90f6fq6ssdps: {
+      protocol: 'XPLA',
+      symbol: 'pIUP',
+      name: 'iUPPITER Point Token',
+      token: 'xpla1htjsuke8zy2rzrnsgc72tvxalqkqanklyml7s7yspecndr90f6fq6ssdps',
+      icon: 'https://silver-glamorous-panther-442.mypinata.cloud/ipfs/QmNj8R9jYWfFNQUthuHMFTGaZHGiFpxA8QjohnXqH1XFLM',
+      decimals: 6,
+    },
   },
 };
