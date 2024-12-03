@@ -160,6 +160,14 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/HVH.png',
       decimals: 18,
     },
+    xpla1dkxavzhwgk0q3qv38aszy53mj3w9xhurgwvdgh7f57yf7crp9s3qhu5qrx: {
+      protocol: 'XPLA',
+      symbol: 'pIUP',
+      name: 'iUPPITER Point Token',
+      token: 'xpla1dkxavzhwgk0q3qv38aszy53mj3w9xhurgwvdgh7f57yf7crp9s3qhu5qrx',
+      icon: 'https://silver-glamorous-panther-442.mypinata.cloud/ipfs/QmNj8R9jYWfFNQUthuHMFTGaZHGiFpxA8QjohnXqH1XFLM',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
