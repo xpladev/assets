@@ -108,6 +108,15 @@ module.exports = {
       homepage: 'https://pal.myepic.cc',
       marketplace: [],
     },
+    xpla1j8arlhd7q5pgyvymxtcd2r07pgmq9dnq7qzv2qu0ml23p00r3ywqrxf283: {
+      contract:
+        'xpla1j8arlhd7q5pgyvymxtcd2r07pgmq9dnq7qzv2qu0ml23p00r3ywqrxf283',
+      name: 'iUPPITER FREE PASS NFT',
+      symbol: 'iFPNFT',
+      icon: 'https://raw.githubusercontent.com/jaeyoun-Hwang/project-assets/931a7c21bc2ac14d248ee0e3742782aa1469f559/NFT_ICON.svg',
+      homepage: 'https://iuppiter.io',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
