@@ -191,5 +191,14 @@ module.exports = {
       homepage: 'https://pal.myepic.cc',
       marketplace: [],
     },
+    xpla1mkaludkmxxs0vq58u8vqv4hyexegwu2r7k3x0ma5jjhc7lwye5usxg4l2k: {
+      contract:
+        'xpla1mkaludkmxxs0vq58u8vqv4hyexegwu2r7k3x0ma5jjhc7lwye5usxg4l2k',
+      name: 'MyB Soulbound Tokens',
+      symbol: 'MyB SBT',
+      icon: 'https://resource.myb.im/myb_icon.png',
+      homepage: 'https://myb.im/',
+      marketplace: [],
+    },
   },
 };
