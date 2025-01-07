@@ -117,6 +117,15 @@ module.exports = {
       homepage: 'https://iuppiter.io',
       marketplace: [],
     },
+    xpla18xsgaqx66wkljvnjcu57pfwq4dtjv4gay662j2pnhy46lvmzqycsxdtz54: {
+      contract:
+        'xpla18xsgaqx66wkljvnjcu57pfwq4dtjv4gay662j2pnhy46lvmzqycsxdtz54',
+      name: 'MyB Soulbound Tokens',
+      symbol: 'MyB SBT',
+      icon: 'https://resource.myb.im/myb_icon.png',
+      homepage: 'https://myb.im/',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
