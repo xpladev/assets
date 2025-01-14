@@ -200,5 +200,14 @@ module.exports = {
       homepage: 'https://myb.im/',
       marketplace: [],
     },
+    xpla1wzkpxtnnzux73sev9wu30y3zuts7tw9pm8n9p9lhausn4hhju8cqzs8v8j: {
+      contract:
+        'xpla1wzkpxtnnzux73sev9wu30y3zuts7tw9pm8n9p9lhausn4hhju8cqzs8v8j',
+      name: 'test HELLO-PAL2',
+      symbol: 'PAL2',
+      icon: 'https://web3-storage.xpla.dev/ipfs/QmSLmaZ5w7zavvVnbY3NUBBFYoBdSawsNRDmG8JZqsjRUd',
+      homepage: 'https://www.hello-pal.io/',
+      marketplace: [],
+    },
   },
 };
