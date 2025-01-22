@@ -14,6 +14,19 @@ module.exports = {
         send_amount: 100,
       },
     },
+    xpla1vnp439p3t8xht5t0g8plap0pwe5ucmfqsnlx0n3yhm8ypfyartas0v8vsq: {
+      contract:
+        'xpla1vnp439p3t8xht5t0g8plap0pwe5ucmfqsnlx0n3yhm8ypfyartas0v8vsq',
+      dapp_name: 'iUPPITER',
+      description:
+        'iUPPITER is a Web 3.0 gaming platform redefining the industry with blockchain and decentralized systems.',
+      contact: 'support@iuppiter.io',
+      grant: {
+        total_amount: 100000,
+        minimum_balance: 1000,
+        send_amount: 100,
+      },
+    },
   },
   testnet: {
     xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt: {
