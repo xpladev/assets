@@ -27,6 +27,33 @@ module.exports = {
         send_amount: 100,
       },
     },
+    xpla1fmjwl2r496mc3u8l2kmfdhn3klwujy84jp6lyklh9nmfjnrxh9jsw47ntg: {
+      contract:
+        'xpla1fmjwl2r496mc3u8l2kmfdhn3klwujy84jp6lyklh9nmfjnrxh9jsw47ntg',
+      dapp_name: 'XPLA VAULT',
+      description: 'XPLA is a web application to interact with XPLA Core.',
+      organization: 'ZENAAD Inc.',
+      contact: 'contact@zenaad.com',
+      grant: {
+        total_amount: 2000000,
+        minimum_balance: 1000,
+        send_amount: 100,
+      },
+    },
+    xpla1hcpc72lxeq42vrtwgtgs3rndnj6qg9jm4h6t9k5ufzkrhrwemdesfcyt8z: {
+      contract:
+        'xpla1hcpc72lxeq42vrtwgtgs3rndnj6qg9jm4h6t9k5ufzkrhrwemdesfcyt8z',
+      dapp_name: 'XPLA GAMES',
+      description:
+        'XPLA GAMES is a Playful Home Ground in Web3 Gaming Space. Blockchain gaming platform striving to create the ultimate Web3 gaming experience.',
+      organization: 'ZENAAD Inc.',
+      contact: 'contact@zenaad.com',
+      grant: {
+        total_amount: 100000,
+        minimum_balance: 1000,
+        send_amount: 100,
+      },
+    },
   },
   testnet: {
     xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt: {
