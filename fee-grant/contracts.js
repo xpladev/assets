@@ -35,7 +35,7 @@ module.exports = {
       organization: 'ZENAAD Inc.',
       contact: 'contact@zenaad.com',
       grant: {
-        total_amount: 2000000,
+        total_amount: 100000,
         minimum_balance: 1000,
         send_amount: 100,
       },
