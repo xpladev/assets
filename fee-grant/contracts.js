@@ -32,7 +32,7 @@ module.exports = {
     xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt: {
       contract:
         'xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt',
-      dapp_name: 'XPLA Vault',
+      dapp_name: 'XPLA VAULT',
       description: 'XPLA is a web application to interact with XPLA Core.',
       organization: 'ZENAAD Inc.',
       contact: 'contact@zenaad.com',
@@ -51,7 +51,7 @@ module.exports = {
       organization: 'ZENAAD Inc.',
       contact: 'contact@zenaad.com',
       grant: {
-        total_amount: 2000000,
+        total_amount: 100000,
         minimum_balance: 1000,
         send_amount: 100,
       },
