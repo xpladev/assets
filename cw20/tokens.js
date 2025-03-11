@@ -165,7 +165,7 @@ module.exports = {
       symbol: 'pIUP',
       name: 'iUPPITER Point Token',
       token: 'xpla1dkxavzhwgk0q3qv38aszy53mj3w9xhurgwvdgh7f57yf7crp9s3qhu5qrx',
-      icon: 'https://silver-glamorous-panther-442.mypinata.cloud/ipfs/QmNj8R9jYWfFNQUthuHMFTGaZHGiFpxA8QjohnXqH1XFLM',
+      icon: 'https://assets.iuppiter.io/assets/images/iup_token_logo.svg',
       decimals: 6,
     },
   },
