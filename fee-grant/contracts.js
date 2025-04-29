@@ -83,9 +83,9 @@ module.exports = {
         send_amount: 100,
       },
     },
-    xpla1dvcakfktl6gx96grepk0y0dpangrqs5exgr9qdy5427v437zsuls69x355: {
+    xpla1cw9sczc78xjt6nkxzklnytphv26uncah3369auh2dcf6z2f27rhs6ssk3j: {
       contract:
-        'xpla1dvcakfktl6gx96grepk0y0dpangrqs5exgr9qdy5427v437zsuls69x355',
+        'xpla1cw9sczc78xjt6nkxzklnytphv26uncah3369auh2dcf6z2f27rhs6ssk3j',
       dapp_name: 'Hive Blockchain',
       description:
         'Hive Blockchain develops and runs web3 games using only API calls, without having to create sophisticated blockchain functions yourself.',
