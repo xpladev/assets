@@ -168,6 +168,14 @@ module.exports = {
       icon: 'https://assets.iuppiter.io/assets/images/iup_token_logo.svg',
       decimals: 6,
     },
+    xpla10804823gxas3d9g8knrutvzkkz92m2ctvsafnan8zw6cqa6sd47qfdg9k8: {
+      protocol: 'XPLA',
+      symbol: 'iUP',
+      name: 'iUP',
+      token: 'xpla10804823gxas3d9g8knrutvzkkz92m2ctvsafnan8zw6cqa6sd47qfdg9k8',
+      icon: 'https://assets.iuppiter.io/assets/images/iup_token_image_500X500.png',
+      decimals: 6,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
