@@ -54,6 +54,20 @@ module.exports = {
         send_amount: 100,
       },
     },
+    xpla142fyyztjd4g69y6c98f70aggfkv85rdu93yagavgrhc76y42zhts567f3h: {
+      contract:
+        'xpla142fyyztjd4g69y6c98f70aggfkv85rdu93yagavgrhc76y42zhts567f3h',
+      dapp_name: 'MetaMatch Mini',
+      description:
+        'MetaMatch revolutionizes card gaming by integrating NFT technology, offering players an innovative platform where they can design unique digital cards and develop sophisticated strategic gameplay.',
+      organization: 'ZENAAD Inc.',
+      contact: 'contact@zenaad.com',
+      grant: {
+        total_amount: 100000,
+        minimum_balance: 1000,
+        send_amount: 100,
+      },
+    },
     xpla1wr5h3h72zxy9x88l0rwk4hywv37nmktheg0n4uwt5wwh8yvk9xsq5aedv7: {
       contract:
         'xpla1wr5h3h72zxy9x88l0rwk4hywv37nmktheg0n4uwt5wwh8yvk9xsq5aedv7',
