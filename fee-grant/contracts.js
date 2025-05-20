@@ -68,6 +68,20 @@ module.exports = {
         send_amount: 100,
       },
     },
+    xpla1wr5h3h72zxy9x88l0rwk4hywv37nmktheg0n4uwt5wwh8yvk9xsq5aedv7: {
+      contract:
+        'xpla1wr5h3h72zxy9x88l0rwk4hywv37nmktheg0n4uwt5wwh8yvk9xsq5aedv7',
+      dapp_name: 'Hive Blockchain',
+      description:
+        'Hive Blockchain develops and runs web3 games using only API calls, without having to create sophisticated blockchain functions yourself.',
+      organization: 'Com2uS Platform Corp.',
+      contact: 'ps-blockchain@com2us.com',
+      grant: {
+        total_amount: 30000,
+        minimum_balance: 1000,
+        send_amount: 100,
+      },
+    },
   },
   testnet: {
     xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt: {
