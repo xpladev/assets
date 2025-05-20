@@ -77,7 +77,7 @@ module.exports = {
       organization: 'Com2uS Platform Corp.',
       contact: 'ps-blockchain@com2us.com',
       grant: {
-        total_amount: 100000,
+        total_amount: 30000,
         minimum_balance: 1000,
         send_amount: 100,
       },
