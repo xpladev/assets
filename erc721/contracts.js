@@ -9,5 +9,13 @@ module.exports = {
       homepage: 'https://www.zenaad.com',
       marketplace: [],
     },
+    '0x8cedb028fE26607D4f205FF091D80e6525968D67': {
+      contract: '0x8cedb028fE26607D4f205FF091D80e6525968D67',
+      name: 'XPLA Monument Test 1',
+      symbol: 'MWM',
+      icon: 'https://madworldweb3dev.s3.us-west-2.amazonaws.com/mw_icon.png',
+      homepage: 'https://playmadworld.com/',
+      marketplace: [],
+    }
   },
 };
