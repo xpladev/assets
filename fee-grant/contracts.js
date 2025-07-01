@@ -82,6 +82,19 @@ module.exports = {
         send_amount: 100,
       },
     },
+    xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm : {
+      contract:
+        'xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm',
+      dapp_name: 'PLAY3',
+      description:
+        'PLAY3 is a “web3 gateway” — a multi-chain reward platform purpose-built to foster community incubation via boosting engagement.',
+      contact: 'help@play3.io,
+      grant: {
+        total_amount: 60000,
+        minimum_balance: 1000,
+        send_amount: 100,
+      },
+    }
   },
   testnet: {
     xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt: {
