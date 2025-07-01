@@ -88,7 +88,7 @@ module.exports = {
       dapp_name: 'PLAY3',
       description:
         'PLAY3 is a “web3 gateway” — a multi-chain reward platform purpose-built to foster community incubation via boosting engagement.',
-      contact: 'help@play3.io,
+      contact: 'help@play3.io',
       grant: {
         total_amount: 60000,
         minimum_balance: 1000,
