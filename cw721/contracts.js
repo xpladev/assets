@@ -209,5 +209,14 @@ module.exports = {
       homepage: 'https://www.hello-pal.io/',
       marketplace: [],
     },
+      xpla1xn2n0udwa5zqe44y6qm7tsvyd476ewda5xgxm7r3mjlwfw57thesntc59s: {
+      contract:
+        'xpla1xn2n0udwa5zqe44y6qm7tsvyd476ewda5xgxm7r3mjlwfw57thesntc59s',
+      name: 'PLAY3 NFT',
+      symbol: 'PLAY3NFT',
+      icon: 'https://assets.xpla.io/icon/PLAY3.png',
+      homepage: 'https://play3.io/',
+      marketplace: [],
+    },
   },
 };
