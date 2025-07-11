@@ -117,6 +117,15 @@ module.exports = {
       homepage: 'https://iuppiter.io',
       marketplace: [],
     },
+    xpla1455nx0apw8thw5jptzt7lupp8xxx4zp9hzupcedlm0zuzdn7jcvsu0eg8w: {
+      contract:
+        'xpla1455nx0apw8thw5jptzt7lupp8xxx4zp9hzupcedlm0zuzdn7jcvsu0eg8w',
+      name: 'PLAY3 NFT',
+      symbol: 'PLAY3NFT',
+      icon: 'https://assets.xpla.io/icon/PLAY3.png',
+      homepage: 'https://play3.io/',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
