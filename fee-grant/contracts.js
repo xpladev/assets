@@ -63,7 +63,7 @@ module.exports = {
       organization: 'ZENAAD Inc.',
       contact: 'contact@zenaad.com',
       grant: {
-        total_amount: 100000,
+        total_amount: 200000,
         minimum_balance: 1000,
         send_amount: 100,
       },
@@ -82,7 +82,7 @@ module.exports = {
         send_amount: 100,
       },
     },
-    xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm : {
+    xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm: {
       contract:
         'xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm',
       dapp_name: 'PLAY3',
@@ -95,7 +95,7 @@ module.exports = {
         minimum_balance: 1000,
         send_amount: 100,
       },
-    }
+    },
   },
   testnet: {
     xpla1peupaz2gsr2255gjxfcjzv594sgdm0ve98jf8edsfve4kyvtk8kq6sh2nt: {
