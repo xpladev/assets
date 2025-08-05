@@ -126,6 +126,15 @@ module.exports = {
       homepage: 'https://play3.io/',
       marketplace: [],
     },
+    xpla1002tesalszm9jpez5s3d3s6zkkhgyhr92nks9xqca569lrf42veqsjk89s: {
+      contract:
+        'xpla1002tesalszm9jpez5s3d3s6zkkhgyhr92nks9xqca569lrf42veqsjk89s',
+      name: 'Batching Genesis Cards',
+      symbol: 'BGNS',
+      icon: 'https://assets.xpla.io/icon/BGNS.png',
+      homepage: 'https://batching.ai',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
@@ -218,13 +227,22 @@ module.exports = {
       homepage: 'https://www.hello-pal.io/',
       marketplace: [],
     },
-      xpla1xn2n0udwa5zqe44y6qm7tsvyd476ewda5xgxm7r3mjlwfw57thesntc59s: {
+    xpla1xn2n0udwa5zqe44y6qm7tsvyd476ewda5xgxm7r3mjlwfw57thesntc59s: {
       contract:
         'xpla1xn2n0udwa5zqe44y6qm7tsvyd476ewda5xgxm7r3mjlwfw57thesntc59s',
       name: 'PLAY3 NFT',
       symbol: 'PLAY3NFT',
       icon: 'https://assets.xpla.io/icon/PLAY3.png',
       homepage: 'https://play3.io/',
+      marketplace: [],
+    },
+    xpla1v995kvslc3l7wpf2z70r9t8qr67js8r4322s2rjqtl6gz6prynaq9we4m3: {
+      contract:
+        'xpla1v995kvslc3l7wpf2z70r9t8qr67js8r4322s2rjqtl6gz6prynaq9we4m3',
+      name: 'Batching Genesis Cards',
+      symbol: 'BGNS',
+      icon: 'https://assets.xpla.io/icon/BGNS.png',
+      homepage: 'https://batching.ai',
       marketplace: [],
     },
   },
