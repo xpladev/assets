@@ -176,6 +176,14 @@ module.exports = {
       icon: 'https://assets.iuppiter.io/assets/images/iup_token_image_500X500.png',
       decimals: 6,
     },
+    xpla153sv2qq5ytw2c9hhavf33gu069u8cp42t32vu8qtvgfjndra72msqc6hne: {
+      protocol: 'XPLA',
+      symbol: 'STARDUST',
+      name: 'Stardust',
+      token: 'xpla153sv2qq5ytw2c9hhavf33gu069u8cp42t32vu8qtvgfjndra72msqc6hne',
+      icon: 'https://assets.xpla.io/icon/STARDUST.png',
+      decimals: 18,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
@@ -312,6 +320,14 @@ module.exports = {
       name: 'HAVAH Token',
       token: 'xpla14uhx5fkpp2dwx7822zmcj0uyggksh6rf6pd99td7l5e62tn7m34qhtvfc8',
       icon: 'https://assets.xpla.io/icon/HVH.png',
+      decimals: 18,
+    },
+      xpla146unpl0wdzs6uh4fa32nhsxq8cde0huahj4asygpv2mylry0vgrs6eu3rm: {
+      protocol: 'XPLA',
+      symbol: 'STARDUST',
+      name: 'Stardust',
+      token: 'xpla146unpl0wdzs6uh4fa32nhsxq8cde0huahj4asygpv2mylry0vgrs6eu3rm',
+      icon: 'https://assets.xpla.io/icon/STARDUST.png',
       decimals: 18,
     },
   },
