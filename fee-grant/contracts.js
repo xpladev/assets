@@ -82,9 +82,9 @@ module.exports = {
         send_amount: 100,
       },
     },
-    xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm : {
+    xpla1dn7l2au7ukc0yc24m09vl8xv4v9kqg7rpw8nwyz6gdr6e4krdmxqwatr9f : {
       contract:
-        'xpla1w56397924hm9aj5e0qwswlw8v2c674kq72wtmg2hguv85uj9xhlq6mrsdm',
+        'xpla1dn7l2au7ukc0yc24m09vl8xv4v9kqg7rpw8nwyz6gdr6e4krdmxqwatr9f',
       dapp_name: 'PLAY3',
       description:
         'PLAY3 is a “web3 gateway” — a multi-chain reward platform purpose-built to foster community incubation via boosting engagement.',
