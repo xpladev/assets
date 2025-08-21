@@ -135,7 +135,7 @@ module.exports = {
       homepage: 'https://batching.ai',
       marketplace: [],
     },
-        xpla197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5sj9tamg: {
+    xpla197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5sj9tamg: {
       contract:
         'xpla197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5sj9tamg',
       name: 'SKYGALLEON',
