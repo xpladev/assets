@@ -140,7 +140,7 @@ module.exports = {
         'xpla197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5sj9tamg',
       name: 'SKYGALLEON',
       symbol: 'SKYGALLEON',
-      icon: 'https://assets.xpla.io/icon/SKYGALLEON.png',
+      icon: 'https://assets.xpla.io/icon/SKYGALLEON.jpg',
       homepage: 'https://skygalleon.jp/',
       marketplace: [],
     },
