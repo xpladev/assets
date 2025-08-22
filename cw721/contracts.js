@@ -135,6 +135,15 @@ module.exports = {
       homepage: 'https://batching.ai',
       marketplace: [],
     },
+    xpla197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5sj9tamg: {
+      contract:
+        'xpla197dqcsngcgw56yvdssayyfef63f78fz4r703muafhsqtlnsxnd5sj9tamg',
+      name: 'SKYGALLEON',
+      symbol: 'SKYGALLEON',
+      icon: 'https://assets.xpla.io/icon/SKYGALLEON.jpg',
+      homepage: 'https://skygalleon.jp/',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
