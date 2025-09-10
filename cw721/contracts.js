@@ -144,6 +144,15 @@ module.exports = {
       homepage: 'https://skygalleon.jp/',
       marketplace: [],
     },
+    xpla1cgs38w8n90nw25z8ghh68kwv62psfqllh4apqsaxdtank84cf0dqk2ca3z: {
+      contract:
+        'xpla1cgs38w8n90nw25z8ghh68kwv62psfqllh4apqsaxdtank84cf0dqk2ca3z',
+      name: 'Badge of trust NFT',
+      symbol: 'BOTNFT',
+      icon: 'https://assets.xpla.io/icon/BOTNFT.png',
+      homepage: 'https://return-relief-fund.xpla.io',
+      marketplace: [],
+    },
   },
   testnet: {
     xpla1x8uz28jkqttcl2jfw7j2lggsnnvuzyjups5mpzrz95y3yz6x0n8qwxsn99: {
@@ -252,6 +261,15 @@ module.exports = {
       symbol: 'BGNS',
       icon: 'https://assets.xpla.io/icon/BGNS.png',
       homepage: 'https://batching.ai',
+      marketplace: [],
+    },
+    xpla1k0pmjfxzad4fw3rfpa4e9eyup38s3a5ws7wju7zuuky6rc855yqsrcwh3v: {
+      contract:
+        'xpla1k0pmjfxzad4fw3rfpa4e9eyup38s3a5ws7wju7zuuky6rc855yqsrcwh3v',
+      name: 'Badge of trust NFT',
+      symbol: 'BOTNFT',
+      icon: 'https://assets.xpla.io/icon/BOTNFT.png',
+      homepage: 'https://return-relief-fund.stage.xpla.io/',
       marketplace: [],
     },
   },
