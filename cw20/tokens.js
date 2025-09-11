@@ -184,6 +184,14 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/STARDUST.png',
       decimals: 18,
     },
+    xpla13l8yr0j5cj72q0y3nty7qzfmezsrjgw64gkaqzt8ahaknz3f06wsekwc3p: {
+      protocol: 'XPLA',
+      symbol: 'BATCH',
+      name: 'BATCH Token',
+      token: 'xpla13l8yr0j5cj72q0y3nty7qzfmezsrjgw64gkaqzt8ahaknz3f06wsekwc3p',
+      icon: 'https://assets.xpla.io/icon/BATCH.png',
+      decimals: 18,
+    },
   },
   testnet: {
     xpla14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9s525s0h: {
@@ -322,12 +330,20 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/HVH.png',
       decimals: 18,
     },
-      xpla146unpl0wdzs6uh4fa32nhsxq8cde0huahj4asygpv2mylry0vgrs6eu3rm: {
+    xpla146unpl0wdzs6uh4fa32nhsxq8cde0huahj4asygpv2mylry0vgrs6eu3rm: {
       protocol: 'XPLA',
       symbol: 'STARDUST',
       name: 'Stardust',
       token: 'xpla146unpl0wdzs6uh4fa32nhsxq8cde0huahj4asygpv2mylry0vgrs6eu3rm',
       icon: 'https://assets.xpla.io/icon/STARDUST.png',
+      decimals: 18,
+    },
+    xpla1l4fl968tsqseqe5l83v5h7ucnrvs730er4lcklzd4d4z8h786auq8s9cep: {
+      protocol: 'XPLA',
+      symbol: 'BATCH',
+      name: 'BATCH Token',
+      token: 'xpla1l4fl968tsqseqe5l83v5h7ucnrvs730er4lcklzd4d4z8h786auq8s9cep',
+      icon: 'https://assets.xpla.io/icon/BATCH.png',
       decimals: 18,
     },
   },
