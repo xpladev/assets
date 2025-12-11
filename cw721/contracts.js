@@ -272,5 +272,14 @@ module.exports = {
       homepage: 'https://return-relief-fund.stage.xpla.io/',
       marketplace: [],
     },
+    xpla1unmhukqmp9zvy3f7dpefq5yhdvlf99tnqvaljcvk7wgjjjwl4gyq7rcq2r: {
+      contract:
+        'xpla1unmhukqmp9zvy3f7dpefq5yhdvlf99tnqvaljcvk7wgjjjwl4gyq7rcq2r',
+      name: 'NOM IP NFT Collection',
+      symbol: 'NOM_IP',
+      icon: 'https://web3-storage.xpla.dev/ipfs/QmNdW5ZiYPMSovo1JWtUSgMxAZnwe8yHyVAe1aKvwtbiwB',
+      homepage: 'https://arena.conx.xyz/nom',
+      marketplace: [],
+    },
   },
 };
