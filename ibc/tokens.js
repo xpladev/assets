@@ -10,6 +10,16 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/svg/ibc/axlUSDC.svg',
       decimals: 6,
     },
+    FC6C34533ECF1AAD296E41A70D8F16089E90D436904B56EDE19342D6DE172B82: {
+      denom:
+        'ibc/FC6C34533ECF1AAD296E41A70D8F16089E90D436904B56EDE19342D6DE172B82',
+      path: 'transfer/channel-16',
+      base_denom: 'uusdc',
+      symbol: 'USDC',
+      name: 'Noble USD Coin',
+      icon: 'https://assets.xpla.io/icon/svg/ibc/axlUSDC.svg',
+      decimals: 6,
+    },
   },
   testnet: {
     '5BDD47E9E73BF91C14497E254F0A751F1A7D3A6084343F66EA7CEE834A384651': {
