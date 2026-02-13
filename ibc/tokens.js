@@ -10,7 +10,7 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/svg/ibc/axlUSDC.svg',
       decimals: 6,
     },
-    FC6C34533ECF1AAD296E41A70D8F16089E90D436904B56EDE19342D6DE172B82: {
+    'FC6C34533ECF1AAD296E41A70D8F16089E90D436904B56EDE19342D6DE172B82': {
       denom:
         'ibc/FC6C34533ECF1AAD296E41A70D8F16089E90D436904B56EDE19342D6DE172B82',
       path: 'transfer/channel-16',
@@ -18,6 +18,16 @@ module.exports = {
       symbol: 'USDC',
       name: 'Noble USD Coin',
       icon: 'https://assets.xpla.io/icon/svg/ibc/axlUSDC.svg',
+      decimals: 6,
+    },
+    'C09A0FFBA11313A32D42A58D820190E71E9D0D5AB3E841C0391EB9A623E07F4B': {
+      denom:
+      'ibc/C09A0FFBA11313A32D42A58D820190E71E9D0D5AB3E841C0391EB9A623E07F4B',
+      path: 'transfer/channel-6',
+      base_denom: 'uatom',
+      symbol: 'ATOM',
+      name: 'Cosmoshub ATOM Coin',
+      icon: 'https://assets.xpla.io/icon/svg/ibc/ATOM.svg',
       decimals: 6,
     },
   },
