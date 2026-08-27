@@ -30,6 +30,16 @@ module.exports = {
       icon: 'https://assets.xpla.io/icon/svg/ibc/ATOM.svg',
       decimals: 6,
     },
+    'AF463B6FC78E0E6068C37DF909C6B5859067BFEDA858A14218A5397794EACF48': {
+      denom:
+        'ibc/AF463B6FC78E0E6068C37DF909C6B5859067BFEDA858A14218A5397794EACF48',
+      path: 'transfer/channel-6/transfer/channel-220',
+      base_denom: 'erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a',
+      symbol: 'USDC.inj',
+      name: 'Injective USD Coin',
+      icon: 'https://assets.xpla.io/icon/svg/ibc/USDC.svg',
+      decimals: 6,
+    },
   },
   testnet: {
     '5BDD47E9E73BF91C14497E254F0A751F1A7D3A6084343F66EA7CEE834A384651': {
