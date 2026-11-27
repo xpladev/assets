@@ -8,6 +8,14 @@ module.exports = {
       icon: 'https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png',
       decimals: 18,
     },
+    '0xF54773ee6F5d49e5Ca6DbD56F994979C0d738a72': {
+      protocol: 'XPLA',
+      symbol: 'CNTNT',
+      name: 'CNTNT 2026 Series 1',
+      token: '0xF54773ee6F5d49e5Ca6DbD56F994979C0d738a72',
+      icon: 'https://assets.xpla.io/icon/evm/CNTNT.png',
+      decimals: 18,
+    },
   },
   testnet: {
     '0x217c395CDC38D55d1F83528df05b9412cde5b800': {
